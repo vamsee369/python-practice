@@ -23,6 +23,8 @@ def factorial(number):
 number = int(input("enter a number : "))
 print(factorial(number))
 
+# largest number
+
 
 def largest_in_list(numbers):
     return max(numbers)

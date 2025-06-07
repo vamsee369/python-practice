@@ -32,4 +32,3 @@ def largest_in_list(numbers):
 
 nums = [10, 50, 20, 70, 30]
 print("Largest number:", largest_in_list(nums))
-# finish

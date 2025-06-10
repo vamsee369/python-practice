@@ -1,3 +1,4 @@
+import csv
 content = [
     "Australia is wider than the moon.\n",
     "Venus is the only planet to spin clockwise.\n",
@@ -12,6 +13,7 @@ with open("example.txt", "w") as file:
 with open("example.txt", "r") as file:
     for line in file:
         print(line.strip())
+
 with open("example.txt", "r") as file:
     content = file.read()
     words = content.split()

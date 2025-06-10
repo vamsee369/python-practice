@@ -1,0 +1,3 @@
+Python is fun
+Let's master file handling!
+this is appended line. /n
